@@ -1,6 +1,6 @@
 # Tablizador
 
-## Clase (Tabla)
+## Clase (Tabla) Uso:
   ### 1. Importar tabla desde tablizador
     from Tablizador import Tabla
 
