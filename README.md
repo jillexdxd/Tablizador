@@ -2,5 +2,5 @@
 
 ## Clase (Tabla)
   ### 1. Importar tabla desde tablizador
-      from Tablizador import Tabla
-![impoty](https://user-images.githubusercontent.com/96015392/210016124-32c89858-82ea-48b0-9350-441e03801561.PNG)
+      ![#f03c15]from Tablizador import Tabla`#f03c15`
+![#f03c15]`#f03c15`
