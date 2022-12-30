@@ -24,3 +24,6 @@
   ### 4. Ya podemos imprimir la tabla bien formateada
   
     tabla.imprimir()
+
+#Ejemplos:
+ ![asd](https://user-images.githubusercontent.com/96015392/210078200-5ca10006-0b68-44dc-9e96-151b28458989.PNG)
